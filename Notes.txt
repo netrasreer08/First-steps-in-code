@@ -1,0 +1,2 @@
+This repository is created for learning GitHub.
+I am practicing uploading files and managing projects.
